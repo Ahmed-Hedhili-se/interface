@@ -78,7 +78,7 @@ export function Header() {
               ))}
             </div>
             <Button asChild>
-              <a href="/ahmed-besbes-cv.pdf" download>
+              <a href="/ahmed_hedhili_cv.pdf" download>
                 <Download className="mr-2 h-4 w-4" />
                 Download CV
               </a>
