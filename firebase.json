@@ -1,0 +1,9 @@
+{
+  "hosting": {
+    "source": ".",
+    "backend": {
+      "id": "cipher-portfolio",
+      "region": "us-west1"
+    }
+  }
+}
