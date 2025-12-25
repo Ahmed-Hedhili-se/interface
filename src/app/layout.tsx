@@ -6,7 +6,7 @@ import { cn } from '@/lib/utils';
 import { ThemeProvider } from 'next-themes';
 
 export const metadata: Metadata = {
-  title: 'Cipher Portfolio',
+  title: 'AHLabs',
   description: 'A cyberpunk-themed portfolio showcasing skills and projects.',
 };
 

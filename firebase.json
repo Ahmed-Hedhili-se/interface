@@ -1,9 +1,12 @@
 {
   "hosting": {
-    "source": ".",
-    "backend": {
-      "id": "cipher-portfolio",
-      "region": "us-west1"
-    }
+    "public": "out",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "cleanUrls": true,
+    "trailingSlash": true
   }
 }
